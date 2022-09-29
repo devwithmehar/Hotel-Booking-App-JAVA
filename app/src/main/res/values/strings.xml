@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="google_login_message">Please LogIN with Google </string>
+    <string-array name="sortingTypes">
+        <item>None</item>
+        <item>Name</item>
+        <item>Price</item>
+    </string-array>
+    <string name="timeMessage">Please Select the Timing</string>
+
+    <string-array name="totalRoomToBook">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="mapbox_access_token">pk.eyJ1Ijoic21laGFyIiwiYSI6ImNrc204aTc1ODM1MHgydHJvMWx4cTY2ZngifQ.7ecWdBtC9wHwYbvaIOtaMQ</string>
+
+</resources>

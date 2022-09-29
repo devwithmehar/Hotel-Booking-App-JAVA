@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/bacround_gradient.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/ic_baseline_bedroom_child_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/ic_welcome_logo.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/spinner_background.xml" value="0.2703125" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/drawable/splash_screen.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_apilist.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_hotel_apilist.xml" value="0.4" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_hotel_detail.xml" value="0.4" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_hotel_list.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_order_history.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_order_placed.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/activity_user_profile.xml" value="0.152" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/color_spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/color_spinner_layout.xml" value="0.1109375" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/customer_spinner_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/experiment.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/fragment_info.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/hotel_item.xml" value="0.2" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/order_history_items.xml" value="0.25402843601895736" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/spinner_dropdown_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/layout/spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_Projects/HotelApp/app/src/main/res/menu/sample_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
